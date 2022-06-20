@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=genefinder
+comment1.params=
+comment1.target=genefinder()
+comment2.params=Start\ dna
+comment2.target=void\ buildCodonMap(int,\ java.lang.String)
+numComments=3
