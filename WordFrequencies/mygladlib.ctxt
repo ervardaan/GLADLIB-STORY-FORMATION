@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=mygladlib
+comment1.params=ss
+comment1.target=java.util.ArrayList\ initializeal(java.lang.String)
+comment2.params=
+comment2.target=mygladlib()
+comment3.params=leng
+comment3.target=int\ randominteger(int)
+comment4.params=
+comment4.target=void\ gettemplate()
+comment5.params=ct
+comment5.target=java.lang.String\ getcategory(java.lang.String)
+numComments=6

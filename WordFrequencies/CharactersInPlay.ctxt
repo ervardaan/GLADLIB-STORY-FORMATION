@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CharactersInPlay
+comment1.params=
+comment1.target=CharactersInPlay()
+comment2.params=person
+comment2.target=void\ update(java.lang.String)
+comment3.params=
+comment3.target=void\ findAllCharacters()
+comment3.text=\ PROBLEM\ FLAWS-\r\n\ IN\ OUR\ PROGRAM,IF\ CHARACTER\ 1\ HAS\ 5\ LINES\ OF\ SPEECH\ AND\ ONLY\ THE\ LAST\ LINE\ HAS\ A\ FULL\ STOP,THEN\ ONLY\ THE\ LAST\ LINE\ IS\ CONSIDERED\ A\ SPEAKING\ LINE\ WHILE\ OTHR\ ABOVE\ 4\ LINES\ WHICH\ MIGHT\ CONTAIN\ NO\ PUNCTUATION\ OR\ OTHER\ PUNCTUATIONS,\r\n\ WILL\ NOT\ BE\ CONSIDERED\ SPEAKING\ LINES\r\n
+numComments=4
